@@ -1,0 +1,226 @@
+Name,Threat Type,Threat Level,User Comment,Path,Creation Time,Is Service,PID,PPID,Malware Scan
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1676,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+UserManager,Process,None,,windows/system32/usermgr.dll,5/12/20 7:26:59 AM IST,true,1200,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+csrss.exe,Process,None,,Windows/System32/csrss.exe,5/12/20 7:26:56 AM IST,false,452,440 (<not-found>),(UNKNOWN) Malware scanning disabled.
+RuntimeBroker.,Process,None,,Windows/System32/RuntimeBroker.exe,5/12/20 7:28:09 AM IST,false,1832,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1600,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:30:02 AM IST,false,6956,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:55 AM IST,false,5004,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1444,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1200,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+fontdrvhost.ex,Process,None,,Windows/System32/fontdrvhost.exe,5/12/20 7:26:59 AM IST,false,848,632 (winlogon.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:29:49 AM IST,false,5988,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:28:11 AM IST,false,5644,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Regshot-x64-AN,Process,None,,Users/Ashish/Documents/Regshot-1.9.0/Regshot-x64-ANSI.exe,5/12/20 7:43:42 AM IST,false,2992,1140 (explorer.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:29:20 AM IST,false,1828,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1420,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+PcaSvc,Process,None,,windows/system32/pcasvc.dll,5/12/20 7:27:58 AM IST,true,5128,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+CryptSvc,Process,None,,windows/system32/cryptsvc.dll,5/12/20 7:27:01 AM IST,true,2616,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:29:24 AM IST,false,1716,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+firefox.exe,Process,None,,Users/Ashish/Desktop/Tor Browser/Browser/firefox.exe,5/12/20 7:48:24 AM IST,false,8000,4108 (firefox.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:28:18 AM IST,false,6860,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,2380,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+browser_broker,Process,None,,Windows/System32/browser_broker.exe,5/12/20 7:48:26 AM IST,false,3456,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:28:12 AM IST,false,6204,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1684,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Windows.WARP.J,Process,None,,Windows/System32/Windows.WARP.JITService.exe,5/12/20 7:48:26 AM IST,false,7700,6204 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1324,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+SSDPSRV,Process,None,,windows/system32/ssdpsrv.dll,5/12/20 7:30:08 AM IST,true,5016,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Registry,Process,None,,Registry,5/12/20 7:26:28 AM IST,false,104,4 (Non-Existent Process),(UNKNOWN) Malware scanning disabled.
+CDPSvc,Process,None,,windows/system32/cdpsvc.dll,5/12/20 7:27:55 AM IST,true,836,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:01 AM IST,false,2780,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+DsSvc,Process,None,,windows/system32/dssvc.dll,5/12/20 7:38:02 AM IST,true,4540,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,1964,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+ShellExperienc,Process,None,,Windows/SystemApps/ShellExperienceHost_cw5n1h2txyewy/ShellExperienceHost.exe,5/12/20 7:38:04 AM IST,false,8124,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+HxTsr.exe,Process,None,,Program Files/WindowsApps/microsoft.windowscommunicationsapps_16005.11029.20108.0_x64__8wekyb3d8bbwe/HxTsr.exe,5/12/20 7:32:48 AM IST,false,5892,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+firefox.exe,Process,None,,Users/Ashish/Desktop/Tor Browser/Browser/firefox.exe,5/12/20 7:48:22 AM IST,false,3576,4108 (firefox.exe),(UNKNOWN) Malware scanning disabled.
+RuntimeBroker.,Process,None,,Windows/System32/RuntimeBroker.exe,5/12/20 7:38:05 AM IST,false,3852,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+DiagTrack,Process,None,,windows/system32/diagtrack.dll,5/12/20 7:27:01 AM IST,true,2624,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+TrkWks,Process,None,,windows/system32/trkwks.dll,5/12/20 7:27:01 AM IST,true,2744,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+nsi,Process,None,,windows/system32/nsisvc.dll,5/12/20 7:27:00 AM IST,true,1896,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Dhcp,Process,None,,windows/system32/dhcpcore.dll,5/12/20 7:27:00 AM IST,true,1972,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:58 AM IST,false,5128,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+UsoSvc,Process,None,,windows/system32/usosvc.dll,5/12/20 7:29:20 AM IST,true,7400,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+ShellHWDetection,Process,None,,windows/system32/shsvcs.dll,5/12/20 7:27:00 AM IST,true,2076,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+lmhosts,Process,None,,windows/system32/lmhsvc.dll,5/12/20 7:42:20 AM IST,true,4068,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+VaultSvc,Process,None,,windows/system32/vaultsvc.dll,5/12/20 7:26:59 AM IST,true,688,532 (wininit.exe),(UNKNOWN) Malware scanning disabled.
+PhoneSvc,Process,None,,windows/system32/phoneservice.dll,5/12/20 7:32:49 AM IST,true,4688,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+SEMgrSvc,Process,None,,windows/system32/semgrsvc.dll,5/12/20 7:32:20 AM IST,true,4008,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+KeyIso,Process,None,,windows/system32/keyiso.dll,5/12/20 7:26:59 AM IST,true,688,532 (wininit.exe),(UNKNOWN) Malware scanning disabled.
+AppXSvc,Process,None,,,5/12/20 7:27:02 AM IST,true,3116,676 (services.exe),
+EventLog,Process,None,,,5/12/20 7:26:59 AM IST,true,1452,676 (services.exe),
+Winmgmt,Process,None,,windows/system32/wbem/wmisvc.dll,5/12/20 7:27:01 AM IST,true,2668,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+iphlpsvc,Process,None,,windows/system32/iphlpsvc.dll,5/12/20 7:27:01 AM IST,true,2864,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+wuauserv,Process,None,,windows/system32/wuaueng.dll,5/12/20 7:27:14 AM IST,true,4056,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Schedule,Process,None,,windows/system32/schedsvc.dll,5/12/20 7:26:59 AM IST,true,1060,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1328,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Power,Process,None,,windows/system32/umpo.dll,5/12/20 7:26:59 AM IST,true,884,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+BrokerInfrastructure,Process,None,,windows/system32/psmsrv.dll,5/12/20 7:26:59 AM IST,true,884,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+CoreMessagingRegistrar,Process,None,,windows/system32/coremessaging.dll,5/12/20 7:26:59 AM IST,true,1420,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+LanmanWorkstation,Process,None,,windows/system32/wkssvc.dll,5/12/20 7:27:00 AM IST,true,2432,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+AudioEndpointBuilder,Process,None,,windows/system32/audioendpointbuilder.dll,5/12/20 7:26:59 AM IST,true,1668,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Audiosrv,Process,None,,windows/system32/audiosrv.dll,5/12/20 7:27:00 AM IST,true,1820,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+RpcEptMapper,Process,None,,windows/system32/rpcepmap.dll,5/12/20 7:26:59 AM IST,true,960,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+DPS,Process,None,,windows/system32/dps.dll,5/12/20 7:27:01 AM IST,true,2632,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+SamSs,Process,None,,,5/12/20 7:26:59 AM IST,true,688,532 (wininit.exe),
+WarpJITSvc,Process,None,,windows/system32/windows.warp.jitservice.dll,5/12/20 7:28:12 AM IST,true,6204,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+WdiServiceHost,Process,None,,windows/system32/wdi.dll,5/12/20 7:27:01 AM IST,true,2872,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+DeviceAssociationService,Process,None,,windows/system32/das.dll,5/12/20 7:42:38 AM IST,true,1068,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+NcbService,Process,None,,windows/system32/ncbservice.dll,5/12/20 7:26:59 AM IST,true,600,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+DcomLaunch,Process,None,,windows/system32/rpcss.dll,5/12/20 7:26:59 AM IST,true,884,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+LanmanServer,Process,None,,windows/system32/srvsvc.dll,5/12/20 7:27:01 AM IST,true,2752,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+WinHttpAutoProxySvc,Process,None,,windows/system32/winhttp.dll,5/12/20 7:27:00 AM IST,true,2116,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+SystemEventsBroker,Process,None,,windows/system32/systemeventsbrokerserver.dll,5/12/20 7:26:59 AM IST,true,884,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+CDPUserSvc_46576,Process,None,,,5/12/20 7:27:54 AM IST,true,4816,676 (services.exe),
+RpcSs,Process,None,,windows/system32/rpcss.dll,5/12/20 7:26:59 AM IST,true,960,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Dnscache,Process,None,,windows/system32/dnsrslvr.dll,5/12/20 7:27:00 AM IST,true,1980,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+PimIndexMaintenanceSvc_46576,Process,None,,,5/12/20 7:29:21 AM IST,true,3776,676 (services.exe),
+TokenBroker,Process,None,,windows/system32/tokenbroker.dll,5/12/20 7:27:55 AM IST,true,5004,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+BthAvctpSvc,Process,None,,windows/system32/bthavctpsvc.dll,5/12/20 7:29:24 AM IST,true,1716,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+EventSystem,Process,None,,windows/system32/es.dll,5/12/20 7:26:59 AM IST,true,1436,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+DusmSvc,Process,None,,windows/system32/dusmsvc.dll,5/12/20 7:27:00 AM IST,true,1912,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+lfsvc,Process,None,,windows/system32/lfsvc.dll,5/12/20 7:29:49 AM IST,true,376,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+LicenseManager,Process,None,,windows/system32/licensemanagersvc.dll,5/12/20 7:32:23 AM IST,true,6664,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+WpnService,Process,None,,,5/12/20 7:27:01 AM IST,true,2780,676 (services.exe),
+ProfSvc,Process,None,,windows/system32/profsvc.dll,5/12/20 7:26:59 AM IST,true,1112,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+BFE,Process,None,,windows/system32/bfe.dll,5/12/20 7:27:00 AM IST,true,2380,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+stisvc,Process,None,,windows/system32/wiaservc.dll,5/12/20 7:42:38 AM IST,true,5424,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+StateRepository,Process,None,,,5/12/20 7:27:00 AM IST,true,1904,676 (services.exe),
+StorSvc,Process,None,,windows/system32/storsvc.dll,5/12/20 7:28:04 AM IST,true,5608,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+SENS,Process,None,,windows/system32/sens.dll,5/12/20 7:26:59 AM IST,true,1600,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+TabletInputService,Process,None,,windows/system32/tabsvc.dll,5/12/20 7:27:55 AM IST,true,5108,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+TimeBrokerSvc,Process,None,,windows/system32/timebrokerserver.dll,5/12/20 7:26:59 AM IST,true,1444,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Appinfo,Process,None,,windows/system32/appinfo.dll,5/12/20 7:28:10 AM IST,true,5560,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,816,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:54 AM IST,false,4852,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:42:38 AM IST,false,5424,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,1912,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:42:38 AM IST,false,1068,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+dllhost.exe,Process,None,,Windows/System32/dllhost.exe,5/12/20 7:27:59 AM IST,false,5212,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+SearchIndexer.,Process,None,,Windows/System32/SearchIndexer.exe,5/12/20 7:28:05 AM IST,true,5972,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:38:04 AM IST,false,1188,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+System,Process,None,,,5/12/20 7:26:41 AM IST,false,4,0 (<not-found>),
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:29:49 AM IST,false,376,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1112,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+userinit.exe,Process,None,,Windows/System32/userinit.exe,5/12/20 7:27:55 AM IST,false,3808,632 (winlogon.exe),(UNKNOWN) Malware scanning disabled.
+tor.exe,Process,None,,Users/Ashish/Desktop/Tor Browser/Browser/TorBrowser/Tor/tor.exe,5/12/20 7:48:23 AM IST,false,4620,4108 (firefox.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:29:21 AM IST,false,3776,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+OneDrive.exe,Process,Suspicious. Run from App Data,,Users/Ashish/AppData/Local/Microsoft/OneDrive/OneDrive.exe,5/12/20 7:28:27 AM IST,false,1072,1140 (explorer.exe),(UNKNOWN) Malware scanning disabled.
+MicrosoftEdgeC,Process,None,,Windows/System32/MicrosoftEdgeCP.exe,5/12/20 7:44:32 AM IST,false,4112,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+WmiPrvSE.exe,Process,None,,Windows/System32/wbem/WmiPrvSE.exe,5/12/20 7:47:50 AM IST,false,7580,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+MemCompression,Process,None,,MemCompression,5/12/20 7:26:59 AM IST,false,1384,4 (System),(UNKNOWN) Malware scanning disabled.
+firefox.exe,Process,None,,Users/Ashish/Desktop/Tor Browser/Browser/firefox.exe,5/12/20 7:48:20 AM IST,false,4108,1284 (<not-found>),(UNKNOWN) Malware scanning disabled.
+RuntimeBroker.,Process,None,,Windows/System32/RuntimeBroker.exe,5/12/20 7:28:12 AM IST,false,6540,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+explorer.exe,Process,None,,Windows/explorer.exe,5/12/20 7:27:55 AM IST,false,1140,3808 (userinit.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:30:07 AM IST,false,4468,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+sihost.exe,Process,None,,Windows/System32/sihost.exe,5/12/20 7:27:54 AM IST,false,4804,1200 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+SearchProtocol,Process,None,,Windows/System32/SearchProtocolHost.exe,5/12/20 7:46:40 AM IST,false,5712,5972 (SearchIndexer.),(UNKNOWN) Malware scanning disabled.
+wininit.exe,Process,None,,Windows/System32/wininit.exe,5/12/20 7:26:56 AM IST,false,532,440 (<not-found>),(UNKNOWN) Malware scanning disabled.
+csrss.exe,Process,None,,Windows/System32/csrss.exe,5/12/20 7:26:56 AM IST,false,548,524 (<not-found>),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:58 AM IST,false,3820,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,2288,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:01 AM IST,false,2616,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+NisSrv.exe,Process,Suspicious. Run from Program Data,,ProgramData/Microsoft/Windows Defender/Platform/4.18.2004.6-0/NisSrv.exe,5/12/20 7:37:50 AM IST,true,8152,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:29:20 AM IST,false,7400,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+spoolsv.exe,Process,None,,Windows/System32/spoolsv.exe,5/12/20 7:27:00 AM IST,true,2328,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:32:23 AM IST,false,6664,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1008,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+audiodg.exe,Process,None,,Windows/System32/audiodg.exe,5/12/20 7:29:26 AM IST,false,1920,1820 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+WUDFHost.exe,Process,None,,Windows/System32/WUDFHost.exe,5/12/20 7:42:51 AM IST,false,7100,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+SkypeApp.exe,Process,None,,Program Files/WindowsApps/Microsoft.SkypeApp_14.35.152.0_x64__kzf8qxf38zg5c/SkypeApp.exe,5/12/20 7:43:02 AM IST,false,1628,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:28:10 AM IST,false,5560,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+fontdrvhost.ex,Process,None,,Windows/System32/fontdrvhost.exe,5/12/20 7:26:59 AM IST,false,840,532 (wininit.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,2076,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:01 AM IST,false,2752,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+dwm.exe,Process,None,,Windows/System32/dwm.exe,5/12/20 7:26:59 AM IST,false,392,632 (winlogon.exe),(UNKNOWN) Malware scanning disabled.
+SearchFilterHo,Process,None,,Windows/System32/SearchFilterHost.exe,5/12/20 7:49:00 AM IST,false,7120,5972 (SearchIndexer.),(UNKNOWN) Malware scanning disabled.
+Windows.WARP.J,Process,None,,Windows/System32/Windows.WARP.JITService.exe,5/12/20 7:48:26 AM IST,false,4132,6204 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+SpeechRuntime.,Process,None,,Windows/System32/Speech_OneCore/common/SpeechRuntime.exe,5/12/20 7:28:10 AM IST,false,5964,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:32:20 AM IST,false,4008,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1668,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:42:35 AM IST,false,5448,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:28:04 AM IST,false,5608,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:54 AM IST,false,4816,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+smartscreen.ex,Process,None,,Windows/System32/smartscreen.exe,5/12/20 7:38:27 AM IST,false,1004,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,960,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,2220,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:01 AM IST,false,2624,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,1896,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+SecurityHealth,Process,None,,Windows/System32/SecurityHealthService.exe,5/12/20 7:28:26 AM IST,true,4928,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:55 AM IST,false,836,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+RuntimeBroker.,Process,None,,Windows/System32/RuntimeBroker.exe,5/12/20 7:32:04 AM IST,false,8048,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+WmiPrvSE.exe,Process,None,,Windows/System32/wbem/WmiPrvSE.exe,5/12/20 7:30:14 AM IST,false,7236,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:01 AM IST,false,2632,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:48:29 AM IST,false,5916,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+lsass.exe,Process,None,,Windows/System32/lsass.exe,5/12/20 7:26:59 AM IST,false,688,532 (wininit.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,1820,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,2116,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:56 AM IST,false,1704,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:38:02 AM IST,false,4540,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+taskhostw.exe,Process,None,,Windows/System32/taskhostw.exe,5/12/20 7:27:55 AM IST,false,4936,1060 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1428,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:01 AM IST,false,3068,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+services.exe,Process,None,,Windows/System32/services.exe,5/12/20 7:26:56 AM IST,false,676,532 (wininit.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1436,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+RuntimeBroker.,Process,None,,Windows/System32/RuntimeBroker.exe,5/12/20 7:28:13 AM IST,false,6704,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:01 AM IST,false,2744,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:01 AM IST,false,2864,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:01 AM IST,false,2872,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+RuntimeBroker.,Process,None,,Windows/System32/RuntimeBroker.exe,5/12/20 7:28:04 AM IST,false,5588,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+SecurityHealth,Process,None,,Windows/System32/SecurityHealthSystray.exe,5/12/20 7:28:26 AM IST,false,6316,1140 (explorer.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:55 AM IST,false,5108,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+MsMpEng.exe,Process,Suspicious. Run from Program Data,,ProgramData/Microsoft/Windows Defender/Platform/4.18.2004.6-0/MsMpEng.exe,5/12/20 7:37:46 AM IST,true,1536,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,600,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+UserDataSvc_46576,Process,None,,,5/12/20 7:29:21 AM IST,true,3776,676 (services.exe),
+DispBrokerDesktopSvc,Process,None,,windows/system32/dispbroker.desktop.dll,5/12/20 7:26:59 AM IST,true,1676,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+netprofm,Process,None,,windows/system32/netprofmsvc.dll,5/12/20 7:27:00 AM IST,true,2288,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+WdiSystemHost,Process,None,,windows/system32/wdi.dll,5/12/20 7:27:01 AM IST,true,3068,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+gpsvc,Process,None,,windows/system32/gpsvc.dll,5/12/20 7:48:29 AM IST,true,5916,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+InstallService,Process,None,,windows/system32/installservice.dll,5/12/20 7:30:02 AM IST,true,6956,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+DoSvc,Process,None,,,5/12/20 7:28:03 AM IST,true,5440,676 (services.exe),
+wscsvc,Process,None,,windows/system32/wscsvc.dll,5/12/20 7:29:20 AM IST,true,1828,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+DisplayEnhancementService,Process,None,,windows/system32/microsoft.graphics.display.displayenhancementservice.dll,5/12/20 7:29:49 AM IST,true,5988,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+WpnUserService_46576,Process,None,,,5/12/20 7:27:54 AM IST,true,4852,676 (services.exe),
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1060,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+MicrosoftEdge.,Process,None,,Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/MicrosoftEdge.exe,5/12/20 7:28:10 AM IST,false,5024,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+SkypeBackgroun,Process,None,,Program Files/WindowsApps/Microsoft.SkypeApp_14.35.152.0_x64__kzf8qxf38zg5c/SkypeBackgroundHost.exe,5/12/20 7:43:13 AM IST,false,7832,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,1452,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+SgrmBroker.exe,Process,None,,Windows/System32/SgrmBroker.exe,5/12/20 7:29:17 AM IST,true,8020,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+dllhost.exe,Process,None,,Windows/System32/dllhost.exe,5/12/20 7:29:18 AM IST,false,8144,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+firefox.exe,Process,None,,Users/Ashish/Desktop/Tor Browser/Browser/firefox.exe,5/12/20 7:48:24 AM IST,false,2788,4108 (firefox.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:01 AM IST,false,2668,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+winlogon.exe,Process,None,,Windows/System32/winlogon.exe,5/12/20 7:26:56 AM IST,false,632,524 (<not-found>),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,1972,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+WindowsInterna,Process,None,,Windows/SystemApps/InputApp_cw5n1h2txyewy/WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe,5/12/20 7:43:16 AM IST,false,7448,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+SearchUI.exe,Process,None,,Windows/SystemApps/Microsoft.Windows.Cortana_cw5n1h2txyewy/SearchUI.exe,5/12/20 7:28:05 AM IST,false,5820,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,1904,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+StartMenuExper,Process,None,,Windows/SystemApps/Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy/StartMenuExperienceHost.exe,5/12/20 7:28:00 AM IST,false,5308,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:31:22 AM IST,false,2556,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:26:59 AM IST,false,884,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,2432,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:00 AM IST,false,1980,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:28:03 AM IST,false,5440,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+smss.exe,Process,None,,Windows/System32/smss.exe,5/12/20 7:26:41 AM IST,false,360,4 (System),(UNKNOWN) Malware scanning disabled.
+FontCache,Process,None,,windows/system32/fntcache.dll,5/12/20 7:26:59 AM IST,true,1684,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Wcmsvc,Process,None,,windows/system32/wcmsvc.dll,5/12/20 7:27:00 AM IST,true,1964,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+Themes,Process,None,,windows/system32/themeservice.dll,5/12/20 7:26:59 AM IST,true,1324,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+OneSyncSvc_46576,Process,None,,,5/12/20 7:29:21 AM IST,true,3776,676 (services.exe),
+PlugPlay,Process,None,,windows/system32/umpnpmgr.dll,5/12/20 7:26:59 AM IST,true,816,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+UnistoreSvc_46576,Process,None,,,5/12/20 7:29:21 AM IST,true,3776,676 (services.exe),
+mpssvc,Process,None,,windows/system32/mpssvc.dll,5/12/20 7:27:00 AM IST,true,2380,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+LSM,Process,None,,windows/system32/lsm.dll,5/12/20 7:26:59 AM IST,true,1008,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+camsvc,Process,None,,windows/system32/capabilityaccessmanager.dll,5/12/20 7:28:18 AM IST,true,6860,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+NlaSvc,Process,None,,windows/system32/nlasvc.dll,5/12/20 7:27:00 AM IST,true,2220,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+SysMain,Process,None,,windows/system32/sysmain.dll,5/12/20 7:26:59 AM IST,true,1328,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+WbioSrvc,Process,None,,windows/system32/wbiosrvc.dll,5/12/20 7:28:11 AM IST,true,5644,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+cbdhsvc_46576,Process,None,,,5/12/20 7:27:58 AM IST,true,3820,676 (services.exe),
+ctfmon.exe,Process,None,,Windows/System32/ctfmon.exe,5/12/20 7:27:55 AM IST,false,2028,5108 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:02 AM IST,false,3116,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+MicrosoftEdgeS,Process,None,,Windows/System32/MicrosoftEdgeSH.exe,5/12/20 7:48:26 AM IST,false,1696,6540 (RuntimeBroker.),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:30:08 AM IST,false,5016,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:27:14 AM IST,false,4056,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+MicrosoftEdge.,Process,None,,Windows/SystemApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/MicrosoftEdge.exe,5/12/20 7:48:25 AM IST,false,3240,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+ApplicationFra,Process,None,,Windows/System32/ApplicationFrameHost.exe,5/12/20 7:28:10 AM IST,false,2944,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+MicrosoftEdgeC,Process,None,,Windows/System32/MicrosoftEdgeCP.exe,5/12/20 7:48:26 AM IST,false,4728,884 (svchost.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:32:49 AM IST,false,4688,676 (services.exe),(UNKNOWN) Malware scanning disabled.
+svchost.exe,Process,None,,Windows/System32/svchost.exe,5/12/20 7:42:20 AM IST,false,4068,676 (services.exe),(UNKNOWN) Malware scanning disabled.
